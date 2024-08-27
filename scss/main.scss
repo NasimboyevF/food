@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/Inter.woff2) format('woff2');
+}
+
+body
+{
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+.container
+{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.support
+{
+  max-width: 1400px;
+  
+}
+
+
+.footer
+{
+  padding: 100px 0 60px;
+  background-image: url('../img/Pattern\ Footer-footer-bg.svg');
+  background-position: top 140px right 400px;
+  background-repeat: no-repeat;
+  background-color: #F5FBFC ;
+
+
+}
+
+
+
+
+
+
